@@ -1,20 +1,21 @@
 {
-  "name": "ddev-wp",
-  "version": "1.0.0",
-  "description": "<p align=\"center\">   <a href=\"https://roots.io/bedrock/\">     <img alt=\"Bedrock\" src=\"https://cdn.roots.io/app/uploads/logo-bedrock.svg\" height=\"100\">   </a> </p>",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WP-Performance/ddev-bedrock.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/WP-Performance/ddev-bedrock/issues"
-  },
-  "homepage": "https://github.com/WP-Performance/ddev-bedrock#readme"
+    "name": "ddev-wp",
+    "version": "1.0.0",
+    "description": "<p align=\"center\">   <a href=\"https://roots.io/bedrock/\">     <img alt=\"Bedrock\" src=\"https://cdn.roots.io/app/uploads/logo-bedrock.svg\" height=\"100\">   </a> </p>",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo \"Error: no build specified\" && exit 1",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/WP-Performance/ddev-bedrock.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/WP-Performance/ddev-bedrock/issues"
+    },
+    "homepage": "https://github.com/WP-Performance/ddev-bedrock#readme"
 }
